@@ -57,7 +57,7 @@ int main() {
 				printf("December	");
 				break;
 		}
-		printf("%f\n", monthlySales[i]); // prints the month's sales
+		printf("%.2f\n", monthlySales[i]); // prints the month's sales
 	}
 
 	printf("\n\nSales summary:\n\n");
@@ -81,7 +81,7 @@ int main() {
 		}
 	}
 
-	printf("Minimum sales:		$%f		", min); // prints the minimum sales month
+	printf("Minimum sales:		$%.2f		", min); // prints the minimum sales month
 
 	switch(minIndex) { // switch statement to print the month that has the smallest amount of sales
 		case 0:
@@ -122,7 +122,7 @@ int main() {
 			break;
 	}
 
-	printf("Maximum sales:		$%f		", max); // prints the maximum sales month
+	printf("Maximum sales:		$%.2f		", max); // prints the maximum sales month
 
 	switch(maxIndex) { // switch statement to print the month that has the largest amount of sales
 		case 0:
@@ -164,7 +164,7 @@ int main() {
 	}
 
 	average = average / 12; // averages all the months
-	printf("Average sales:  	$%f\n", average); // prints the average of all the months
+	printf("Average sales:  	$%.2f\n", average); // prints the average of all the months
 
 	printf("\n\nSix-Month Moving Average Report:\n\n");
 
@@ -199,7 +199,7 @@ int main() {
 		}
 
 		sixMonthAverage = sixMonthAverage / 6; // averages the six months
-		printf("$%f\n", sixMonthAverage); // prints the six month average
+		printf("$%.2f\n", sixMonthAverage); // prints the six month average
 	}
 
 		printf("\n\nSales Report (Highest to Lowest):\n\nMonth		Sales\n");
@@ -256,7 +256,7 @@ int main() {
 					printf("shit");
 					break;
 			}
-			printf("$%f\n", currentMax); // prints the current line value
+			printf("$%.2f\n", currentMax); // prints the current line value
 			monthlySales[currentMaxIndex] = 0; // set the index of the currentMax as 0 so that it isn't printed again next loop
 
 		}
