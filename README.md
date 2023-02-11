@@ -1,4 +1,4 @@
-**PROJECT 1**
+# **PROJECT 1 OUTPUT BELOW:**
 
 Enter a file name for the input: input_0.txt
 Monthly sales report for 2022:
@@ -54,5 +54,65 @@ January		$23458.01
 
 
 
-**PROJECT 2**
+# **PROJECT 2 OUTPUT BELOW**
 
+Enter a point value: 8
+
+Scoring combinations for 8 points
+1 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 0 Safety
+0 TD + 2pt, 0 TD + FG, 1 TD, 0 3pt FG, 1 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 2 3pt FG, 1 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 4 Safety
+
+Enter a point value: 25
+
+Scoring combinations for 25 points
+2 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 1 Safety
+2 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 0 Safety
+2 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 0 Safety
+2 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 3 Safety
+1 TD + 2pt, 2 TD + FG, 0 TD, 1 3pt FG, 0 Safety
+1 TD + 2pt, 1 TD + FG, 1 TD, 0 3pt FG, 2 Safety
+1 TD + 2pt, 1 TD + FG, 0 TD, 2 3pt FG, 2 Safety
+1 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 5 Safety
+1 TD + 2pt, 0 TD + FG, 2 TD, 1 3pt FG, 1 Safety
+1 TD + 2pt, 0 TD + FG, 1 TD, 3 3pt FG, 1 Safety
+1 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 4 Safety
+1 TD + 2pt, 0 TD + FG, 0 TD, 5 3pt FG, 1 Safety
+1 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 4 Safety
+1 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 7 Safety
+0 TD + 2pt, 3 TD + FG, 0 TD, 0 3pt FG, 2 Safety
+0 TD + 2pt, 2 TD + FG, 1 TD, 1 3pt FG, 1 Safety
+0 TD + 2pt, 2 TD + FG, 0 TD, 3 3pt FG, 1 Safety
+0 TD + 2pt, 2 TD + FG, 0 TD, 1 3pt FG, 4 Safety
+0 TD + 2pt, 1 TD + FG, 3 TD, 0 3pt FG, 0 Safety
+0 TD + 2pt, 1 TD + FG, 2 TD, 2 3pt FG, 0 Safety
+0 TD + 2pt, 1 TD + FG, 2 TD, 0 3pt FG, 3 Safety
+0 TD + 2pt, 1 TD + FG, 1 TD, 4 3pt FG, 0 Safety
+0 TD + 2pt, 1 TD + FG, 1 TD, 2 3pt FG, 3 Safety
+0 TD + 2pt, 1 TD + FG, 1 TD, 0 3pt FG, 6 Safety
+0 TD + 2pt, 1 TD + FG, 0 TD, 6 3pt FG, 0 Safety
+0 TD + 2pt, 1 TD + FG, 0 TD, 4 3pt FG, 3 Safety
+0 TD + 2pt, 1 TD + FG, 0 TD, 2 3pt FG, 6 Safety
+0 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 9 Safety
+0 TD + 2pt, 0 TD + FG, 3 TD, 1 3pt FG, 2 Safety
+0 TD + 2pt, 0 TD + FG, 2 TD, 3 3pt FG, 2 Safety
+0 TD + 2pt, 0 TD + FG, 2 TD, 1 3pt FG, 5 Safety
+0 TD + 2pt, 0 TD + FG, 1 TD, 5 3pt FG, 2 Safety
+0 TD + 2pt, 0 TD + FG, 1 TD, 3 3pt FG, 5 Safety
+0 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 8 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 7 3pt FG, 2 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 5 3pt FG, 5 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 8 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 11 Safety
+
+Enter a point value: 6
+
+Scoring combinations for 6 points
+0 TD + 2pt, 0 TD + FG, 1 TD, 0 3pt FG, 0 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 2 3pt FG, 0 Safety
+0 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 3 Safety
+
+Enter a point value: 1
+
+Exiting...
