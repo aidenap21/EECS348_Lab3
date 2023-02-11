@@ -57,7 +57,7 @@ int main() {
 				printf("December	");
 				break;
 		}
-		printf("%.2f\n", monthlySales[i]); // prints the month's sales
+		printf("$%.2f\n", monthlySales[i]); // prints the month's sales
 	}
 
 	printf("\n\nSales summary:\n\n");
